@@ -8,8 +8,8 @@ $modal-shadow:                  0 8px 10px 1px rgba(0, 0, 0, 0.14),0 3px 14px 2p
 $modal-header-bg-color:         #7f919e !default;
 $modal-header-color:            #fff !default;
 $modal-header-height:           45px !default;
-$modal-padding:                 20px;
-$modal-max-width:               480px;
+$modal-padding:                 20px !default;
+$modal-max-width:               480px !default;
 
 //
 // Modal
@@ -198,7 +198,7 @@ html.modal-is-active .content-wrapper {
 
       .btn {
         padding: 1rem 0;
-        color: $color-charcoal !important;
+        color: #181824 !important;
 
         i:before {
           margin: 0;
@@ -209,7 +209,7 @@ html.modal-is-active .content-wrapper {
 
       &.active {
         .btn {
-          color: $color-olive !important;
+          color: #39ba67 !important;
         }
       }
     }
