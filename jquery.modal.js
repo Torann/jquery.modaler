@@ -1,3 +1,12 @@
+/**
+ * @file jquery.modal.js
+ * @copyright 2015-2017 Lulebe, Inc.
+ * @author Daniel Stainback (Torann)
+ * @url https://github.com/Torann/jquery.modaler
+ * @version 1.0.0
+ * @license Apache-2.0
+ */
+
 +function ($) { "use strict";
 
     // MODAL CLASS DEFINITION
